@@ -18,6 +18,8 @@
 
   <body>
 
+    <IMG SRC="imagen.jpg" ALIGN=TOP>
+
     <h1> Las aventuras de mi gato Lucky </h1>
 
     <div id = «mainContent»>
