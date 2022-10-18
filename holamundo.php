@@ -13,7 +13,7 @@
     <link rel = «stylesheet» type = «text / css» href = «/ style.css»>
 
     <link rel = «icono de acceso directo» href = «/ favicon.ico»>
-
+    <link href="style.css" rel="stylesheet" type="text/css">
   </head>
 
   <body>
